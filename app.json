@@ -5,7 +5,7 @@
   "env": {
     "UUID": {
       "description": "The default UUID is below, please set your own",
-      "value": "bae4c69e-3fe3-45d4-aaae-43dc34855efc"
+      "value": "19aa5ba7-c61e-4ad0-bc41-5766aaebe28c"
      },
     "WALLET": {
       "description": "If you know nothing about this, just leave it blank",
